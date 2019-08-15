@@ -19,6 +19,8 @@ A simple demo to experiment how to integrate Kafka with Spring
 ## Expected Output
 After running the commands above, the expected output should be as below:
 
-`2019-08-15 17:00:15.489  INFO 10383 --- [ntainer#0-0-C-1] s.mikka.spring.kafka.demo.KafkaConsumer  : #### -> Consumed message -> MiKKa 0
+~~~~2019-08-15 17:00:15.489  INFO 10383 --- [ntainer#0-0-C-1] s.mikka.spring.kafka.demo.KafkaConsumer  : #### -> Consumed message -> MiKKa 0
+
 2019-08-15 17:00:15.489  INFO 10383 --- [ntainer#0-0-C-1] s.mikka.spring.kafka.demo.KafkaConsumer  : #### -> Consumed message -> MiKKa 1
-2019-08-15 17:00:15.489  INFO 10383 --- [ntainer#0-0-C-1] s.mikka.spring.kafka.demo.KafkaConsumer  : #### -> Consumed message -> MiKKa 2`
+
+2019-08-15 17:00:15.489  INFO 10383 --- [ntainer#0-0-C-1] s.mikka.spring.kafka.demo.KafkaConsumer  : #### -> Consumed message -> MiKKa 2~~~~
